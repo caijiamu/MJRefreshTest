@@ -1,0 +1,6 @@
+platform :ios, "7.0"
+
+pod "MJRefresh"
+
+target :'MJRefresh上啦加载下拉刷新' do
+end
